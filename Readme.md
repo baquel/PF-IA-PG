@@ -34,7 +34,7 @@ Además, habría que considerar el costo de una plataforma de email marketing (c
 1. Análisis de set de datos de viajes para identificar los destinos más populares y los tipos de alojamientos preferidos en esos destinos.
 2. Generación del correo electrónico de marketing personalizado en base a los parámetros ingresados (nombre del cliente, segmento, tipo de destino de interés, porcentaje de descuento ofrecido, tipo de alojamiento ofrecido, destino ofertado, y tono del correo electrónico).
 3. Generación del prompt para generar una imagen a incluir en el correo electrónico de marketing en base al segmento del cliente y al destino ofertado
-4. Generación de la imagen para el correo electrónico de marketing usando el prompt generado en el punto 2
+4. Generación de la imagen para el correo electrónico de marketing usando el prompt generado en el punto 3
    
 ## Herramientas y tecnologías
 - Excel (para traducir, limpiar y normalizar el set de datos)
